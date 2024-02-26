@@ -39,5 +39,5 @@ Make sure you have the following software installed on your machine:
 To start the application, run the following command:
 
     ```shell
-    npm install
+    npm start
     ```

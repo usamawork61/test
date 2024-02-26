@@ -189,6 +189,7 @@ function App() {
                   className="form-control"
                   id="exampleFormControlTextarea1"
                   rows="3"
+                  placeholder="Content"
                 ></textarea>
               </div>
             </div>
@@ -264,6 +265,7 @@ function App() {
                   className="form-control"
                   id="exampleFormControlTextarea1"
                   rows="3"
+                  placeholder="Content"
                 ></textarea>
               </div>
             </div>
