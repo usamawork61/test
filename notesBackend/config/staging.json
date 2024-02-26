@@ -1,0 +1,9 @@
+{
+    "port": 5002,
+    "mongoHost": "mongodb://127.0.0.1:27017/shopify-express-app",
+    "saltRounds": 10,
+    "jwtSecret": "ItzShopifyReviwz",
+    "email": "test@gmail.com",
+    "password": "noog klov omsg xmtf",
+    "defaultPageSize": 10
+}
