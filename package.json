@@ -1,0 +1,11 @@
+{
+    "name": "my-app",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "concurrently \"cd notesBackend && npm start\" \"cd notesFront && npm start\"",
+        "install-deps": "concurrently \"npm install\"  \"cd notesBackend && npm install\"  \"cd notesFront && npm install\""
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.2"
+    }
+}
